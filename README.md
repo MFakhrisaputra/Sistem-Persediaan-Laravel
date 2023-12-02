@@ -1,6 +1,7 @@
 # Sistem Persediaan Laravel
 Pencatatan persediaan dengan laravel 9 php 8
 # Flowchart
+![Screenshot (511)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/4e78ed60-0e2d-4724-81b4-17ca032f4e1b)
 
 # Database
 ![Screenshot (510)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/e29e3336-5c52-400a-9c00-71d5475961d3)
