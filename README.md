@@ -11,4 +11,6 @@ Pencatatan persediaan dengan laravel 9 php 8
 ![Screenshot (507)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/cfcea592-ad05-4d2e-92c0-2026225539e8)
 
 # Tampilan
-![Screenshot (502)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/49779e24-66c9-4bca-ad77-1578f1e72346)
+![Screenshot (512)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/ccb87b9d-0090-4155-9982-b675288487a8)
+![Screenshot (513)](https://github.com/MFakhrisaputra/Sistem-Persediaan-Laravel/assets/152719642/2da02da6-3449-43cd-9833-b100fe32b425)
+
